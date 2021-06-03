@@ -15,6 +15,3 @@ I'm a PhD Candidate at the University of South Florida College of Marine Science
 <a href="https://github.com/jonpeake/jonpeake">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonpeake&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jon's GitHub Stats" />
 </a>
-
-
- Feel free to contact me about anything!
