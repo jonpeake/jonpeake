@@ -1,0 +1,1 @@
+I'm a PhD Candidate at the University of South Florida College of Marine Science. My research interests include marine ecology, spatiotemporal dynamics of fishes across multiple scales of space, time, and biological organization, open source science, spatial and community analysis in R, and species distribution modeling.
