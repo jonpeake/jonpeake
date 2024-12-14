@@ -6,7 +6,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=qOAxjfsAAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/jonathan-peake-a9666165/)
 
-I'm a PhD Candidate at the University of South Florida College of Marine Science. My research interests include marine ecology, spatiotemporal dynamics of fishes across multiple scales of space, time, and biological organization, open source science, spatial and community analysis in R, and species distribution modeling.
+I'm a Data Scientist with the NOAA Fisheries Open Science Initiative. My research interests include marine ecology, spatiotemporal dynamics of fishes across multiple scales of space, time, and biological organization, open source science, spatial and community analysis in R, and species distribution modeling.
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/jonpeake/jonpeake">
